@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+:root{
+    --parpel:#6047ec;
+    --blue-parpel:#684EFB;
+    --violet-parpel:#5A00DD;
+    --deep-pink:#FF136F;
+}
+body{
+    height: 300vh;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navBar{
+    background-color: var(--parpel);
+    /* position: fixed;
+    width: 100%; */
+}
+#registerBtn{
+    background-color: var(--deep-pink);
+}
