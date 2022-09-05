@@ -15,6 +15,10 @@ body{
     background-color: var(--parpel);
     transition: all ease .3s;
 }
+#loginBtn:hover{
+    background-color: #fff !important;
+    color: #684EFB !important;
+}
 #registerBtn{
     background-color: var(--deep-pink);
 }
