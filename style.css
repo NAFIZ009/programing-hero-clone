@@ -11,10 +11,9 @@ body{
     margin: 0;
     padding: 0;
 }
-.navBar{
+#navBar{
     background-color: var(--parpel);
-    /* position: fixed;
-    width: 100%; */
+    transition: all ease .3s;
 }
 #registerBtn{
     background-color: var(--deep-pink);
